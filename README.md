@@ -1,6 +1,6 @@
 # 🌤️ Weather App
 
-🔗 **Live Demo:** https://abhinavw12.github.io/Weather-App/
+🔗 **Live Demo:** https://abhinavvv12.github.io/Weather-App/
 
 A simple and responsive Weather Application built using HTML, CSS, and JavaScript that provides real-time weather information for any city using a weather API.
 
@@ -130,7 +130,7 @@ Through this project, I practiced:
 
 **Abhinav**
 
-GitHub: https://github.com/abhinavw12
+GitHub: https://github.com/abhinavvv12
 
 ---
 
